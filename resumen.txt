@@ -1,0 +1,6 @@
+📝 Reporte institucional - Mon Aug 25 22:45:35     2025
+----------------------------------
+📁 Log: interactuar.log
+2025-08-25 22:14:42 - interactuar ejecutado en /c/xampp/htdocs/insta-automation/captures - Archivos encontrados: 0
+2025-08-25 22:18:48 - interactuar - OK - 5 archivos procesados correctamente - /c/xampp/htdocs/insta-automation/captures
+----------------------------------

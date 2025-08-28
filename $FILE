@@ -1,0 +1,4 @@
+@extends('layouts.militar')
+@section('contenido')
+<h1>${view^} de $dir</h1>
+@endsection

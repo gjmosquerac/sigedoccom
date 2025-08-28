@@ -1,0 +1,12 @@
+body {
+    background-image: url('../images/fondo_militar.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', sans-serif;
+    color: #1c1c1c;
+}
+h1 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #444;
+    padding-bottom: 5px;
+}
